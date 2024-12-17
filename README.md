@@ -1,3 +1,5 @@
+# It is great project, as I prefer Swift than Kotlin, so I prefer using Swift write Android, while not Kotlink write iOS
+
 # Skip
 
 Skip is a technology for creating dual-platform mobile apps in Swift. [Read this introduction](https://skip.tools/docs/) to learn more about Skip. 
