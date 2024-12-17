@@ -1,4 +1,4 @@
-# It is great project, as I prefer Swift than Kotlin, so I prefer using Swift write Android, while not Kotlink write iOS
+# It is a great project, as I prefer Swift than Kotlin, so I prefer using Swift write Android, while not Kotlin write iOS
 
 # Skip
 
